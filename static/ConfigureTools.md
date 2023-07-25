@@ -113,6 +113,5 @@ go version
 
 
 # Running Template
+Click **[HERE](https://github.com/cunhaDev/go-tools)** for install Tools on your VPS!
 
-fazer a instalação das ferramentas Utilizando Golang.
-usar o Go para executar o shell script de instalação.
