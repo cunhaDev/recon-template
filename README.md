@@ -53,4 +53,4 @@ terraform --version
 
 ## Usage
 
-Click **[HERE](https://github.com/cunha/resto/do/caminho)** for configure and install Tools on your VPS!
+Click **[HERE]([https://github.com/cunha/resto/do/caminho](https://github.com/cunhaDev/go-tools))** for configure and install Tools on your VPS!
